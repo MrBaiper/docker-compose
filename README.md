@@ -6,7 +6,7 @@
 # 4- password: root
 
 # 5- create database personas;
-use personas;
+### use personas;
 create table persona (
     id int (3) unsigned auto_increment primary key,
     nombre varchar(50) unique,
